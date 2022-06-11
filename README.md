@@ -10,7 +10,7 @@
 - ⌨️ Devloping: ~Cho-Sexy Project!~ Personal Website, Some Tools Online also of fun WebPage...?
 
 
-[![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto)](https://github.com/anuraghazra/github-readme-stats)
+[![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
