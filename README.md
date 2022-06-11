@@ -10,7 +10,15 @@
 - ⌨️ Devloping: ~Cho-Sexy Project!~ Personal Website, Some Tools Online also of fun WebPage...?
 
 
-[![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,#ff9a9e,#fecfef,#fecfef)](https://github.com/anuraghazra/github-readme-stats)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-koto&layout=compact)
+
+** My Project the most INVESTMENT **
+
+[![RSI Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=Random-Sexy-Img)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%); -->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
