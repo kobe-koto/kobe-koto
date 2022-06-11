@@ -13,7 +13,7 @@
 [![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-koto&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,fbc2eb,a6c1ee&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto)
 
-** My Project the most INVESTMENT **
+**My Project the most INVESTMENT**
 
 [![koto.cc Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=kobe-koto.github.io&show_icons=true&theme=dracula&bg_color=DEG,667eea,764ba2&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto/kobe-koto.github.io)
 [![Yallage Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=Yallage&show_icons=true&theme=dracula&bg_color=DEG,667eea,764ba2&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto/Yallage)
