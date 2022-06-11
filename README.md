@@ -10,16 +10,16 @@
 - ⌨️ Devloping: ~Cho-Sexy Project!~ Personal Website, Some Tools Online also of fun WebPage...?
 
 
-[![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,fecfef,fecfef)](https://github.com/kobe-koto)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-koto&layout=compact)](https://github.com/kobe-koto)](https://github.com/kobe-koto)
+[![kobe-koto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobe-koto&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto)](https://github.com/kobe-koto)
 
 ** My Project the most INVESTMENT **
 
 
-[![koto.cc Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=kobe-koto.github.io)](https://github.com/kobe-koto/kobe-koto.github.io)
-[![Yallage Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=Yallage)](https://github.com/kobe-koto/Yallage)
-[![RSI Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=Random-Sexy-Img)](https://github.com/kobe-koto/Random-Sexy-Img)
-[![RSI Demo Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=RandomSexyAPI-Demo)](https://github.com/kobe-koto/RandomSexyAPI-Demo)
+[![koto.cc Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=kobe-koto.github.io&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto/kobe-koto.github.io)
+[![Yallage Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=Yallage&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto/Yallage)
+[![RSI Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=Random-Sexy-Img&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto/Random-Sexy-Img)
+[![RSI Demo Card](https://github-readme-stats.vercel.app/api/pin/?username=kobe-koto&repo=RandomSexyAPI-Demo&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true)](https://github.com/kobe-koto/RandomSexyAPI-Demo)
 
 
 <!-- background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%); -->
