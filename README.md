@@ -32,5 +32,5 @@ d4fc79,96e6a1
 - 🔭 I’m currently working on ...
 -->
 
-<img src="https://counter.koto.cc/?img&FontFamily=monospace&Color=ffffff&HitText=Total%20Hits&VisitorText=Total%20Visitors&cache=1232431324355465768798765432" alt="Counter"></img>
+<img src="https://counter.koto.cc/?img&FontFamily=monospace&Color=ffffff&HitText=Total%20Hits&VisitorText=Total%20Visitors&cache=1145141919810" alt="Counter"></img>
 
