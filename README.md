@@ -2,6 +2,7 @@
 
 **I'm kobe-koto!**
 
+
 - 🌱 I’m currently learning JavaScript, HTML, CSS. or more and more.
 - 📫 How to reach me: Telegram[@kobe_koto](https://t.me/kobe_koto), [My Discord Group](https://discord.gg/HPX5zu8vYX)
 - 😄 Fond of: Music Rhythm Game, Minecraft, etc.
@@ -20,10 +21,6 @@
 [![RSI Card](http://gh-stats.koto.cc/api/pin/?username=kobe-koto&repo=Random-Sexy-Img&show_icons=true&theme=dracula&bg_color=DEG,667eea,764ba2&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/kobe-koto/Random-Sexy-Img)
 [![RSI Demo Card](http://gh-stats.koto.cc/api/pin/?username=kobe-koto&repo=RandomSexyAPI-Demo&show_icons=true&theme=dracula&bg_color=DEG,667eea,764ba2&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/kobe-koto/RandomSexyAPI-Demo)
 
-## 那个 evenstar3905 和名字很像的 evestar3905 怎么了？
-
-請參見我的部落格 [那个 evenstar3905 和名字很像的 evestar3905 怎么了？](https://blog.koto.cc/posts/About-evestar3905-evenstar3905)
-
 <!-- background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
 
 d4fc79,96e6a1
@@ -34,3 +31,5 @@ d4fc79,96e6a1
 - 💬 Ask me about ...
 - 🔭 I’m currently working on ...
 -->
+
+![Counter](https://counter.koto.cc/?img&FontFamily=monospace&Color=ffffff&HitText=Total%20Hits&VisitorText=Total%20Visitors&cache=1232431324355465768798765432)
