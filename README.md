@@ -32,4 +32,4 @@ d4fc79,96e6a1
 - 🔭 I’m currently working on ...
 -->
 
-![Counter](https://counter.koto.cc/?img&FontFamily=monospace&Color=ffffff&HitText=Total%20Hits&VisitorText=Total%20Visitors&cache=1232431324355465768798765432)
+<!--![Counter](https://counter.koto.cc/?img&FontFamily=monospace&Color=ffffff&HitText=Total%20Hits&VisitorText=Total%20Visitors&cache=1232431324355465768798765432)-->
