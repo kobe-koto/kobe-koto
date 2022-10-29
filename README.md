@@ -12,7 +12,9 @@
 ---
 
 <div align="center" style="text-align: center;">
-  <img src="https://counter.koto.cc/?type=MoeCounter&theme=rule34&value=hit" alt="Counter">
+  <a href="https://github.com/kobe-koto/CounterWorkerKV">
+    <img src="https://counter.koto.cc/?type=MoeCounter&theme=rule34&value=hit" alt="Counter">
+  </a>
 </div>
 
 <div align="center" style="text-align: center;">
