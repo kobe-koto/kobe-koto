@@ -3,11 +3,11 @@
 **叫我 koto 或者 Puca 都行哦**
 
 
-- 🌱 我正學習着 JavaScript, HTML, CSS. or more and more.
-- 📫 How to reach me: Telegram[Group](https://t.me/+VUUOvlY0Hq00YzVl), [My Discord Group](https://discord.gg/HPX5zu8vYX)
-- 😄 Fond of: Music Rhythm Game, Minecraft, etc.
-- 👯 Follow me at: Facebook[@Kobe_Koto](https://www.facebook.com/profile.php?id=100075633594530), Twitter[@evestar3905](https://twitter.com/evestar3905), BiliBili[@kobe-koto](https://space.bilibili.com/275678621), CloudMusic[@kobe-koto](https://music.163.com/user/home?id=1352374026).
-- ⌨️ Devloping: ~Cho-Sexy Project!~ Personal Website, Some Tools Online and also of fun WebPage...?
+- 🌱 正在學習純 JavaScript, HTML, CSS.
+- 📫 來我的 [Telegram Group](https://t.me/+VUUOvlY0Hq00YzVl) 吹水!
+- 😄 感興趣的: 音樂節奏類遊戲, Minecraft 等等等等...
+- 👯 你可以在: Twitter[@kobe-koto](https://twitter.com/kobe-koto), BiliBili[@kobe-koto](https://space.bilibili.com/275678621), CloudMusic[@kobe-koto](https://music.163.com/user/home?id=1352374026) 關注我!
+- ⌨️ 在寫什麼?: 個人網站, 一些基於 Cloudflare Worker 的 Serverless 程式~和澀澀網站!~
 
 ---
 
