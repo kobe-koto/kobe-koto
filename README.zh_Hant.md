@@ -1,6 +1,6 @@
-### 👋 Hi guys!
+### 👋 你好啊! **這裏是 kobe-koto!**
 
-**I'm kobe-koto!**
+**叫我 koto 或者 Puca 都行哦**
 
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS. or more and more.
