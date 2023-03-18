@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS. or more and more.
 - 📫 How to reach me: Telegram[Group](https://t.me/+VUUOvlY0Hq00YzVl), [My Discord Group](https://discord.gg/HPX5zu8vYX)
-- 😄 Fond of: Music Rhythm Game, Minecraft, etc.
-- 👯 Follow me at: Facebook[@Kobe_Koto](https://www.facebook.com/profile.php?id=100075633594530), Twitter[@evestar3905](https://twitter.com/evestar3905), BiliBili[@kobe-koto](https://space.bilibili.com/275678621), CloudMusic[@kobe-koto](https://music.163.com/user/home?id=1352374026).
+- 😄 Fond of: Music Rhythm Game, Minecraft, Arknights and Dragon Village M.
+- 👯 Follow me at: Twitter[@kobe_koto](https://twitter.com/kobe_koto), BiliBili[@kobe-koto](https://space.bilibili.com/275678621).
 - ⌨️ Devloping: Mainly of front-end, like Personal Website (Homepage, Blog), Currently working on AOM.
 
 ---
