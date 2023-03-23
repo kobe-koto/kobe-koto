@@ -3,8 +3,8 @@
 **I'm kobe-koto!**
 
 
-- 🌱 I’m currently learning JavaScript, HTML, CSS. or more and more.
-- 📫 How to reach me: Telegram[Group](https://t.me/+VUUOvlY0Hq00YzVl), [My Discord Group](https://discord.gg/HPX5zu8vYX)
+- 🌱 I’m currently learning Astro.js, Node.js, Pure JavaScript. or more and more.
+- 📫 How to reach me: [Telegram Group](https://t.me/+VUUOvlY0Hq00YzVl) and Twitter DM.
 - 😄 Fond of: Music Rhythm Game, Minecraft, Arknights and Dragon Village M.
 - 👯 Follow me at: Twitter[@kobe_koto](https://twitter.com/kobe_koto), BiliBili[@kobe-koto](https://space.bilibili.com/275678621).
 - ⌨️ Devloping: Mainly of front-end, like Personal Website (Homepage, Blog), Currently working on AOM.
