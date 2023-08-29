@@ -11,12 +11,6 @@
 ---
 
 <div align="center" style="text-align: center;">
-  <a href="https://github.com/kobe-koto/CounterWorkerKV">
-    <img src="https://counter.koto.cc/?type=MoeCounter&theme=rule34&value=hit" alt="Counter">
-  </a>
-</div>
-
-<div align="center" style="text-align: center;">
   <a href="https://github.com/kobe-koto">
     <img src="https://gh-stats.koto.cc/api/top-langs/?username=kobe-koto&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,fbc2eb,a6c1ee&title_color=ffffff&hide_border=true&locale=zh-tw" title="kobe-koto's Top Langs" alt="kobe-koto's Top Langs">
   </a>
@@ -27,22 +21,3 @@
     <img src="https://gh-stats.koto.cc/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true&locale=zh-tw" title="kobe-koto's GitHub stats" alt="kobe-koto's GitHub stats">
   </a>
 </div>
-
-<!--
-[![kobe-koto's GitHub stats](http://gh-stats.koto.cc/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/kobe-koto)
-
-[![kobe-koto's Top Langs](http://gh-stats.koto.cc/api/top-langs/?username=kobe-koto&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,fbc2eb,a6c1ee&title_color=ffffff&hide_border=true&locale=zh-tw)](https://github.com/kobe-koto)
--->
-
-<!--
-  background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
-  d4fc79,96e6a1
--->
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 🔭 I’m currently working on ...
--->
-
-
