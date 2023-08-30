@@ -21,3 +21,7 @@
     <img src="https://gh-stats.koto.cc/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG,ff9a9e,ff9a9e,fecfef&title_color=ffffff&hide_border=true&locale=zh-tw" title="kobe-koto's GitHub stats" alt="kobe-koto's GitHub stats">
   </a>
 </div>
+
+---
+
+感谢各位的坚持不懈的努力和一些「我直接 ui 照抄没有任何问题」和「你快使用 xx License」的奇妙言论，koto-cc-front 项目现在转为私有库且目前暂无开源计划。
