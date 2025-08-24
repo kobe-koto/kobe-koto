@@ -1,6 +1,6 @@
-## 👋 Hey there! **I'm kobe koto!**  |  UwU
+## 👋 Hey there! **I'm kobe koto!**  |  UwU | ![Human Coded Up to 100%](https://badgen.net/static/Human%20Coded/Up%20to%20100%25/green)
 
-**Call me "Puca" or "koto"**
+**Call me "Puca" or "koto"** 
 
 
 - 🔖 16 y.o.
