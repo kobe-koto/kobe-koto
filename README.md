@@ -2,8 +2,6 @@
 
 **Call me "Puca" or "koto"** 
 
-
-- 🔖 16 y.o.
 - 🌐 Fluent with English and Chinese.
 - 📫 Join and chat in my [Telegram Group](https://t.me/+T94jGCHCK6RiNmU9)! Or email me at k@koto.cc if you fancy~
 - 👯 Follow me on [Twitter @ kobe_koto](https://twitter.com/kobe_koto) or [Github @ kobe-koto](https://github.com/kobe-koto), or leave a star.
