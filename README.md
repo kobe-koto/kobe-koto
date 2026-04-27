@@ -36,7 +36,7 @@
     <img src="https://gh-stats.koto.cc/api/top-langs/?username=kobe-koto&layout=compact&show_icons=true&theme=dracula&bg_color=DEG,57a86a,82c6b4&title_color=ffffff&hide_border=true&locale=en" title="kobe-koto's Top Langs" alt="kobe-koto's Top Langs">
   </a>
   <a href="https://github.com/kobe-koto">
-    <img src="https://gh-stats.koto.cc/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG50,4c8367,8540e0&title_color=ffffff&hide_border=true&locale=en" title="kobe-koto's GitHub stats" alt="kobe-koto's GitHub stats">
+    <img src="https://gh-stats.koto.cc/api?username=kobe-koto&show_icons=true&theme=dracula&bg_color=DEG50,4c8367,8540e0&title_color=ffffff&hide_border=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" title="kobe-koto's GitHub stats" alt="kobe-koto's GitHub stats">
   </a>
 </div>
 
