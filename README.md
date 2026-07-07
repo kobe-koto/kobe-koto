@@ -3,18 +3,22 @@
 **Call me "Puca" or "koto"** 
 
 - 🌐 Fluent with English and Chinese.
-- 📫 Join and chat in my [Telegram Group](https://t.me/+T94jGCHCK6RiNmU9)! Or email me at k@koto.cc if you fancy~
+- 📫 Join and chat in my [Telegram Group](https://t.me/FnF_Ruins)! Or drop me a email at k@koto.cc~
 - 👯 Follow me on [Twitter @ kobe_koto](https://twitter.com/kobe_koto) or [Github @ kobe-koto](https://github.com/kobe-koto), or leave a star.
-- ⌨️ Busy with school and talking around.
-- 🏳️‍🌈 LGBT friendly. MtX - my gender is probably what you think *wink; i prefer he / him.
-- 🐾 A furry dragon / im UwU
-- ⭐ Personal website [koto.cc](https://koto.cc/), welcomes you!
+- ⌨️ Busy with school and fucking around but can't find out.
+- 🏳️‍🌈 MtX - my gender is probably what you think; i prefer he / him.
+- 🐾 A fluffy dragon.
+- ⭐ Personal website at [koto.cc](https://koto.cc/)!
 
 ### Languages & Frameworks & Runtime & whatever:
 
-[<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>](https://astro.build/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun.sh" width="40" height="40"/>](https://bun.sh/)
+[<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>](https://astro.build/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun.sh" width="40" height="40"/>](https://bun.sh/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40"/>](https://deno.com/)
 
-### I use Arch BTW:
+> some mfs just instantly triggers when see any occurrence of Bun, because of that i'm adding a deno icon there. 
+> 
+> i dont use deno myself but the icon is a cute dino so yay?
+
+### I use Arch BTW
 [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original-wordmark.svg" alt="ArchLinux" width="256" height="256"/>](https://archlinux.org/)
 
 ### Support:
@@ -46,11 +50,11 @@
 >
 > I am NOT Kobe Bryant. I have no connection to him, no affiliation, and I am not a fan. 
 >
-> In fact, I wasn’t even aware of his existence when I chose it for a part of my username. 
+> In fact, I wasn’t even aware of his existence when I chose it for a part of my username/nickname. 
 >
-> His "Kobe" is a given name; in my case, it's a surname — specifically, the Japanese surname 神戸, which is transliterated as Kobe in English.
+> His "Kobe" is a given name; in my case, it's a surname - specifically, the Japanese surname "神戸", which is transliterated as Kobe/Koube in English.
 >
-> I ABSOLUTELY HATE being called “Kobe Bryant” or any variation of his name — 10/10, do not do it, or you intentionally want to PMO, unless our friendship is strong enough to make fun with each other's name (note that being blocked is on you, not me).
+> I ABSOLUTELY HATE being called “Kobe Bryant” or any variation of his name ON PURPOSE, if you didn't do that on purpose, i might just ignore it. but DON'T.
 >
 
 ---
