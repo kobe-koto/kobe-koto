@@ -12,7 +12,11 @@
 
 ### Languages & Frameworks & Runtime & whatever:
 
-[<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>](https://astro.build/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun.sh" width="40" height="40"/>](https://bun.sh/) [<img  src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/denojs/denojs-original.svg" alt="deno" width="40" height="40"/>](https://deno.com/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>](https://astro.build/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg" alt="Bun.sh" width="40" height="40"/>](https://bun.sh/)
+[<img src="https://raw.githubusercontent.com/kobe-koto/kobe-koto/main/icons/deno.svg" alt="deno" width="40" height="40"/>](https://deno.com/)
 
 > some mfs just instantly triggers when see any occurrence of Bun, because of that i'm adding a deno icon there. 
 > 
